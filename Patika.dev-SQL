@@ -1,4 +1,0 @@
-film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
-'''SQL
-SELECT title, description FROM film;
-'''
